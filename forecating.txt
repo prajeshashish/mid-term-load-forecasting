@@ -3,3 +3,7 @@ RNN
 LSTM
 LSTM + Hyper-paramter tuning
 Results are calculated with LSTM only
+results are compared
+see which one is best
+
+thank you
