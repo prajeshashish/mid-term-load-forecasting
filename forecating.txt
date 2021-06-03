@@ -2,3 +2,4 @@ Mid-Term load forecasting
 RNN
 LSTM
 LSTM + Hyper-paramter tuning
+Results are calculated with LSTM only
